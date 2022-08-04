@@ -1,0 +1,8 @@
+{
+  "scripts":{
+    "makefile":"tailwindcss -i ./input.css  -o  output.css "
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.7"
+  }
+}
